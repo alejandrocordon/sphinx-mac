@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "ステーキング時間: (時間)"; ObjectID = "5Mx-Tg-RiK"; */
+"5Mx-Tg-RiK.title" = "ステーキング時間: (時間)";
+
+/* Class = "NSTextFieldCell"; title = "メッセージあたりの価格:"; ObjectID = "IDt-GP-9ir"; */
+"IDt-GP-9ir.title" = "メッセージあたりの価格:";
+
+/* Class = "NSButtonCell"; title = "TRIBEに参加"; ObjectID = "PnB-qY-PbV"; */
+"PnB-qY-PbV.title" = "TRIBEに参加";
+
+/* Class = "NSTextFieldCell"; title = "ステーキング金額:"; ObjectID = "RlC-nx-gKp"; */
+"RlC-nx-gKp.title" = "ステーキング金額:";
+
+/* Class = "NSTextFieldCell"; title = "参加料金:"; ObjectID = "fC4-f3-yQO"; */
+"fC4-f3-yQO.title" = "参加料金:";
+
+/* Class = "NSTextFieldCell"; title = "TRIBE情報読み込み中..."; ObjectID = "ubU-9I-jji"; */
+"ubU-9I-jji.title" = "TRIBE情報読み込み中...";
+
+"uGH-BU-eSo.title" = "保存";
+
+"vz1-9I-udo.title" = "読み込み中...";

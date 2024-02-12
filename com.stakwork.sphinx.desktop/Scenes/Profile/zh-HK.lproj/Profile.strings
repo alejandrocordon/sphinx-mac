@@ -1,0 +1,30 @@
+
+Continuación de la traducción:
+Chino de Hong Kong:
+
+/* Class = "NSTextFieldCell"; title = "會議伺服器"; ObjectID = "Tci-hQ-YkV"; */
+"Tci-hQ-YkV.title" = "會議伺服器";
+
+/* Class = "NSTextFieldCell"; title = "地址"; ObjectID = "gvM-01-89w"; */
+"gvM-01-89w.title" = "地址";
+
+"lhX-D8-z6l.title" = "路由提示";
+
+/* Class = "NSTextFieldCell"; title = "分享我的個人資料照片\n給聯絡人"; ObjectID = "pmw-w3-a0T"; */
+"pmw-w3-a0T.title" = "分享我的個人資料照片\n給聯絡人";
+
+"RnC-xs-5Nh.title" = "同步更多裝置";
+
+"hwD-l5-buT.title" = "備份您的金鑰";
+
+/* Class = "NSButtonCell"; title = "儲存變更"; ObjectID = "qhk-bW-FZv"; */
+"qhk-bW-FZv.title" = "儲存變更";
+
+/* Class = "NSButtonCell"; title = "想切換到新裝置？匯出金鑰"; ObjectID = "tTV-fP-FrT"; */
+"tTV-fP-FrT.title" = "想切換到新裝置？匯出金鑰";
+
+/* Class = "NSTextFieldCell"; title = "伺服器 URL"; ObjectID = "wRd-MN-U8t"; */
+"wRd-MN-U8t.title" = "伺服器 URL";
+
+"0cE-Ar-9CG.title" = "變更 PIN";
+

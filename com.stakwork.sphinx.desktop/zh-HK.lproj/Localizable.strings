@@ -1,0 +1,402 @@
+/*
+  Localizable.strings
+  com.stakwork.sphinx.desktop
+
+  Created by Sodapop on 10/02/2024.
+  Copyright © 2024 Sphinx. All rights reserved.
+*/
+
+//Genericx
+"generic.success.title" = "成功";
+"generic.error.title" = "錯誤";
+"generic.error.message" = "出現了問題。請稍後再試。";
+"generic.message.error" = "訊息無法正確加密，因此無法發送。";
+"confirm" = "確認";
+"warning" = "注意";
+"done.upper" = "完成";
+"next.upper" = "下一步";
+"confirm.upper" = "確認";
+"continue" = "繼續";
+"save.upper" = "儲存";
+"cancel" = "取消";
+"uploaded.progress" = "已上傳：%d %%";
+"public.key" = "公鑰";
+"name.you" = "你";
+"name.unknown" = "未知";
+"name.unknown.initials" = "未";
+"today" = "今天";
+"contact" = "聯絡人";
+"profile" = "個人資料";
+"profile.saved" = "個人資料更改已成功儲存";
+"search" = "搜索";
+"submit" = "提交";
+"finish" = "完成";
+
+"connected.to.node" = "已連接到節點";
+"socket.disconnected" = "實時更新不可用";
+"unable.to.connect" = "無法連接到節點";
+"unauthorized.error.message" = "出現了問題。請聯繫支持。";
+"network.connection.lost" = "網絡連接丟失。\n請檢查您的網絡並重試。";
+"reverting.ip" = "新URL驗證失敗，恢復先前的配置...";
+"verifying.new.ip" = "正在驗證新的URL...";
+
+//LeftMenu
+"menu.dashboard" = "首頁";
+"menu.contacts" = "聯絡人";
+"menu.profile" = "個人檔案";
+
+"support.describe.problem" = "在這裡描述您的問題...";
+"support.logs.copied" = "日誌已復制到剪貼板";
+"message.sent" = "您的消息已發送";
+
+//GROUPS
+"unselect.all.upper" = "取消選擇所有";
+"select.all.upper" = "選擇所有";
+"add.members.limit" = "無法添加超過 %d 位成員";
+"reach.members.limit" = "您已達到成員限制";
+"group.image" = "群組圖像";
+"select.option" = "請選擇一個選項";
+"required.fields.empty" = "一些必填字段為空";
+"add.contacts" = "添加聯絡人";
+"select.contacts" = "選擇聯絡人";
+"contacts.upper" = "聯絡人";
+"member.join.soon" = "新成員將很快加入";
+"unknown.group" = "未知群組";
+"created.on" = "創建於：%@";
+"group.members.upper" = "群組成員";
+"group.options" = "群組選項";
+"edit.group" = "編輯群組";
+"delete.group" = "刪除群組";
+"exit.group" = "退出群組";
+"confirm.exit.delete.group" = "您確定要退出並刪除群組嗎？";
+"delete.group" = "刪除群組";
+"confirm.delete.group" = "您確定要刪除此群組嗎？";
+"confirm.exit.delete.tribe" = "您確定要退出並刪除部落嗎？";
+"confirm.delete.tribe" = "您確定要刪除這個部落嗎？";
+"share.group.link" = "分享部落的QR碼";
+"group.link.upper" = "部落的QR碼";
+"profile.image" = "個人資料圖片";
+"edit.group.upper" = "編輯群組";
+"just.left.group" = "%@ 已離開群組";
+"just.left.tribe" = "%@ 已離開部落";
+"has.joined.group" = "%@ 已加入群組";
+"has.joined.tribe" = "%@ 已加入部落";
+"added.to.group" = "%@ 已被添加到群組";
+"tribe.kick" = "管理員已將您從此部落中刪除";
+"tribe.deleted" = "管理員已刪除此部落";
+"member.request" = "%@ 希望加入部落";
+"member.request.rejected" = "管理員已拒絕您的請求";
+"member.request.approved" = "歡迎！您現在是群組的成員";
+"admin.request.approved" = "您已批准 %@ 的請求";
+"admin.request.rejected" = "您已拒絕 %@ 的請求";
+"waiting.admin.approval" = "等待管理員批准";
+"deleted.tribe.title" = "部落已刪除";
+"deleted.tribe.description" = "管理員已刪除此部落。您將無法再發送或接收消息。請從部落詳情視圖中刪除並退出部落。";
+"join.tribe" = "加入部落";
+"exit.tribe" = "退出部落";
+"confirm.exit.tribe" = "您確定要退出這個部落嗎？";
+"share.group" = "分享QR碼";
+"delete.tribe" = "刪除部落";
+
+//SUBSCRIPTIONS
+"leave.lose.unsaved.changed" = "您確定要離開嗎？未保存的更改將丟失";
+"paused.upper" = "已暫停";
+"ended.upper" = "已結束";
+"active.upper" = "活躍";
+"subscription.fields.required" = "金額、時間間隔和付款結束是必需的。";
+"confirm.delete.subscription" = "您確定要刪除這個訂閱嗎？";
+"amount.upper" = "金額";
+"time.interval.upper" = "時間間隔";
+"end.rule.upper" = "結束規則";
+"total.payments" = "付款次數：";
+"pay.until" = "支付至：";
+"already.subscribed" = "您已經訂閱了。";
+"value.cannot.empty" = "值不能為空";
+"subscribe.upper" = "訂閱";
+
+//INVOICE DETAILS
+"x.copied.clipboard" = "%@ 已復制到剪貼板";
+"payment.request" = "付款請求";
+
+//ADDRESS BOOK
+"new.contact" = "新聯絡人";
+"save.to.contacts.upper" = "保存到聯絡人";
+"edit.contact.upper" = "編輯聯絡人";
+"subscribed.upper" = "已訂閱";
+"subscribe.upper" = "訂閱";
+"nickname.address.required" = "暱稱和地址是必需的";
+"invalid.pubkey" = "無效的公鑰";
+"new.contact.error.alreadyExists" = "您的聯絡人列表中已存在此公鑰的聯絡人。";
+
+//INVITE
+"group.details" = "群組詳情";
+"tribe.details" = "部落詳情";
+"add.people" = "添加";
+"whoops" = "哎呀！";
+"welcome" = "歡迎";
+"welcome!" = "歡迎！";
+"contact.support" = "出現問題。\n\n請聯繫 support@stakwork.com";
+"paste.invite.text" = "粘貼邀請碼\n或掃描QR碼";
+"paste.invitation.code" = "粘貼邀請碼...";
+"paste.keys" = "在這裡粘貼您的鑰匙...";
+"pin" = "PIN";
+"enter.pin.upper" = "輸入 PIN";
+"invalid.pin" = "無效的PIN";
+"message.from.friend" = "來自您朋友的消息...";
+"skip" = "跳過";
+"get.it.now" = "立即獲取";
+"select.image" = "選擇圖像";
+"change.image" = "更改圖像";
+"nickname" = "暱稱";
+"change.image" = "更改圖像";
+"nickname.cannot.empty" = "您必須輸入暱稱";
+"ready.use.sphinx" = "準備好使用Sphinx了！";
+"ready" = "準備好了";
+"ready.sphinx.text" = "您可以發送消息、發送 %@ sats 或接收高達 %@ sats。";
+"x.sats," = "%@ sats,";
+"x.sats." = "%@ sats.";
+"invite.more.sats" = "您沒有足夠的sats來請求這個邀請";
+"code.copied.clipboard" = "代碼已復制到剪貼板";
+"confirm.delete.keychain" = "您確定要永久刪除此節點的Keychain嗎？確認您未在另一台設備上連接到此節點，因為此操作將刪除信息，導致您在另一台設備上的連接丟失。";
+"error.restoring.keychain" = "從Keychain恢復時出現問題。";
+"share.invite.code.upper" = "分享邀請碼";
+"add.friend" = "添加朋友";
+"invalid.code.pubkey" = "您似乎輸入了一個公鑰，要註冊，您需要一個邀請碼。在 https://sphinx.chat 獲取";
+"invalid.code.invoice" = "您似乎輸入了一個付款請求，要註冊，您需要一個邀請碼。在 https://sphinx.chat 獲取";
+"invalid.code" = "輸入的代碼無效，要註冊，您需要一個邀請碼。在 https://sphinx.chat 獲取";
+"tor.connection.failed" = "連接到Tor失敗";
+"establishing.tor.circuit" = "正在建立與Tor的連接...";
+"wait.tor.request" = "請等待。這個過程可能需要幾分鐘...";
+"restore.label" = "從移動應用復制您的鑰匙並粘貼到這裡。";
+"signup.label" = "在Sphinx中粘貼您的邀請碼";
+"restore.label.bold" = "復制您的鑰匙";
+"signup.label.bold.1" = "粘貼";
+"signup.label.bold.2" = "邀請碼";
+"get.started" = "開始";
+"set.nickname" = "設置暱稱";
+"set.pin" = "設置PIN（6位數）";
+"confirm.pin" = "確認PIN";
+"sphinx.on.phone" = "還沒有在您的手機上獲取Sphinx？";
+"sphinx.on.phone.bold" = "您的手機上的Sphinx";
+
+//PROFILE
+"address.copied.clipboard" = "地址已復制到剪貼板";
+"pin.keys.encryption" = "輸入您的PIN以加密鑰匙。請記住它！您將需要它來恢復您在另一台設備上的賬戶。";
+"export.keys" = "導出鑰匙";
+"keys.will.copy.clipboard" = "您的鑰匙將被復制到剪貼板。在刪除應用之前保存鑰匙並記住您的PIN，否則所有信息將丟失。";
+"keys.copied.clipboard" = "鑰匙已復制到剪貼板";
+"server.url.updated" = "服務器URL已成功更新";
+"drag.image" = "拖動圖像";
+"pubkey" = "公鑰";
+"route.hint" = "路由提示";
+"pubkey.upper" = "公鑰";
+
+//PIN
+"privacy.pin" = "隱私PIN";
+"standard.pin" = "標準PIN";
+"enter.pin.upper" = "輸入PIN";
+"choose.pin.upper" = "選擇您的PIN";
+"confirm.pin.upper" = "確認您的PIN";
+"pin.doesnt.match" = "PIN不匹配";
+"pins.do.not.match" = "PIN不匹配";
+"current.pin" = "當前PIN";
+"new.pin" = "新PIN";
+"confirm.new.pin" = "確認新PIN";
+"pin.changed" = "您的PIN已更新。請使用新的PIN再次導出您的鑰匙。";
+"contact.pin.error" = "您不能使用您的主PIN作為群組PIN";
+"set.privacy.pin" = "設置私密PIN";
+"change.privacy.pin" = "更改私密PIN";
+"privacy.pin.set" = "您的私密PIN已設置";
+"privacy.pin.changed" = "您的私密PIN已更改";
+"pins.must.be.different" = "您的PIN和您的私密PIN不能相同";
+"privacy.pin.tooltip" = "當隱私設置啟用時，聯絡人只有在使用私密PIN登錄Sphinx時才可見。您首先需要從個人資料中設置私密PIN才能使用此功能";
+"pin.change" = "更改PIN";
+"confirm.pin.change" = "您確定要更改您的PIN嗎？";
+"confirm.privacy.pin.change" = "您確定要更改您的隱私PIN嗎？";
+
+//HISTORY
+"error.loading.transactions" = "加載交易列表時出現問題。請稍後再試。";
+"loading.more.transactions" = "加載更多交易...";
+
+//QR CODE SCANNER
+"scan.qr.code.upper" = "掃描QR碼";
+"paste.invoice.subscription" = "粘貼付款請求或訂閱碼";
+"contact.address.upper" = "聯絡人地址";
+"enter.address" = "輸入地址";
+"scan.upper" = "掃描";
+"enter.code" = "輸入代碼";
+"sorry" = "抱歉";
+"code.not.recognized" = "我們無法識別這種代碼。";
+"expired" = "過期：";
+"invoice" = "發票";
+"confirm.pay.invoice" = "您確定要支付這張發票嗎？";
+
+//CHAT
+"payment.failed.upper" = "支付失敗";
+"microphone.permission.denied" = "您已拒絕使用麥克風的權限。轉到設置 -> Sphinx 並重新啟用它以發送語音消息。";
+"chat.muted.message" = "這個對話已被靜音。您將不會收到此對話中的入站消息通知。";
+"pay.invitation" = "支付邀請";
+"payment.failed" = "支付失敗，請稍後再試";
+"expires.in" = "%@ 分鐘後過期";
+"invoice.paid.on" = "%@ 支付的";
+"media.terms.expired" = "文件已過期";
+"message.failed" = "消息發送失敗";
+"invite.name" = "邀請：%@";
+"welcome.to.sphinx" = "歡迎來到Sphinx！";
+"loading.more.messages" = "加載更多消息...";
+"message.placeholder" = "消息...";
+"audio.message.cancelled" = "語音消息已取消";
+"loading.preview" = "加載預覽...";
+"title.not.available" = "標題不可用";
+"description.not.available" = "描述不可用";
+"preview.not.available" = "預覽不可用";
+"text.copied.clipboard" = "文本已復制到剪貼板";
+"link.copied.clipboard" = "鏈接已復制到剪貼板";
+"pub.key.copied.clipboard" = "公鑰已復制到剪貼板";
+"call.link.copied.clipboard" = "通話鏈接已復制到剪貼板";
+"pubkey.copied.clipboard" = "公鑰已復制到剪貼板";
+"route.hint.copied.clipboard" = "路由提示已復制到剪貼板";
+"fetching.old.messages" = "正在加載舊消息\n請稍候...";
+"fetching.new.messages" = "正在加載新消息\n請稍候...";
+"group.price.text" = "每條消息的價格：%@ sat - 保留量：%@ sat";
+"join.call" = "加入通話";
+"decrypting.message" = "解密消息...";
+"encryption.error" = "加密錯誤";
+"cannot.load.message.data" = "無法加載消息數據";
+"pay.to.unlock.msg" = "支付以解鎖";
+"loading.paid.message" = "加載付費消息...";
+"copy.text" = "復制文本";
+"copy.link" = "復制鏈接";
+"copy.pub.key" = "復制公鑰";
+"copy.call.link" = "復制通話鏈接";
+"reply" = "回复";
+"save.file" = "保存文件";
+"delete.message" = "刪除消息";
+"received" = "已接收";
+"sent" = "已發送";
+"message.x.deleted" = "消息已刪除";
+"payment" = "付款";
+"picture.capitalize" = "圖片";
+"gif.capitalize" = "GIF";
+"video.capitalize" = "視頻";
+"audio.capitalize" = "音頻";
+"paid.message.capitalize" = "付費消息";
+"message.not.supported" = "不支持的格式";
+"from.lower" = "來自";
+"purchase.item.description" = "付費消息 %@";
+"item.purchased" = "項目購買";
+"item.purchase.denied" = "項目購買被拒絕";
+"confirm.purchase" = "確認購買";
+"confirm.purchase.message" = "您確定要購買此項目嗎？";
+"bot.response" = "機器人回應";
+"file" = "文件";
+"downloading.file" = "正在下載文件...";
+"amount.too.low" = "金額太低";
+"amount.too.high" = "金額太高";
+"link.not.supported" = "不支持的鏈接";
+"bot.response.preview" = "機器人回應預覽";
+
+"users" = "用戶";
+"optional.message.placeholder" = "可選消息...";
+"price.required" = "需要價格";
+"message.required" = "需要消息";
+"send.gif.upper" = "發送GIF";
+"send.image.upper" = "發送圖片";
+"send.paid.message.upper" = "發送付費消息";
+"send.video.upper" = "發送視頻";
+"set.price.upper" = "設置價格";
+"to" = "到";
+"from" = "從";
+"send.payment.upper" = "發送付款";
+"request.amount.upper" = "請求金額";
+"balance.too.low" = "餘額太低";
+"total" = "總計";
+"payment.successfully.sent" = "付款已成功發送。";
+"memo.too.large" = "備忘錄太長";
+"pages" = "頁面";
+"page" = "頁";
+"pdf.description" = "PDF - %@ - 第 %d 頁，共 %d 頁";
+
+//OTHER
+"create.call" = "創建通話";
+"select.call.mode" = "選擇通話模式";
+"audio" = "音頻";
+"video.or.audio" = "視頻或音頻";
+"log.into.your.account" = "登錄到您的帳戶";
+"email.cant.be.sent" = "此設備無法發送電子郵件。";
+"photo.library.denied" = "您已拒絕訪問您的照片庫。轉到設置 -> Sphinx 並重新啟用它。";
+"item.successfully.saved" = "%@ 已成功保存。";
+"error.saving.item" = "保存 %@ 時出現問題。請稍後再試。";
+"image" = "圖片";
+"video" = "視頻";
+"dismiss" = "關閉";
+"invoice.paid" = "發票已支付";
+"amount" = "金額";
+"memo" = "備忘錄";
+"camera" = "相機";
+"photo.library" = "照片庫";
+"no.camera.available" = "此設備沒有可用的相機";
+"redeem.sats.from" = "從 %@ 兌換 %d sats";
+"keysend.received" = "您已收到 %d sats 的付款";
+"people.message.placeholder" = "給 %@ 的初始消息";
+"authorization.succeeded" = "授權成功。請返回網頁完成您的個人資料。";
+"authorization.failed" = "授權失敗";
+"already.connected" = "您已經與此人連接";
+"price.to.meet" = "連接價格：";
+
+"people.save-profile" = "保存 %@ 的個人檔案：";
+"people.delete-profile" = "刪除 %@ 的個人檔案：";
+"people.save-failed" = "無法保存個人檔案";
+"people.delete-failed" = "無法刪除個人檔案";
+"people.save-succeed" = "個人檔案成功保存";
+"people.delete-succeed" = "個人檔案成功刪除";
+"people.claim-on-liquid" = "兌換 %@ 的代幣：";
+"people.claim-on-liquid-succeed" = "無法兌換代幣";
+"people.claim-on-liquid-failed" = "代幣成功兌換";
+
+//TRANSACTION MESSAGE
+"purchase.succeeded" = "購買成功";
+"purchase.denied" = "購買被拒絕";
+"processing" = "處理中";
+"pending" = "待定";
+
+//Invites
+"invite.looking.available.node" = "正在尋找可用節點給 %@...";
+"invite.payment.sent" = "付款已發送，等待確認";
+"invite.pay" = "點擊支付並激活邀請";
+"invite.ready" = "準備就緒！點擊分享。24小時後過期";
+"invite.signing.on" = " %@ 正在註冊";
+"invite.expired" = "已過期";
+"invite.signup.complete" = "註冊完成";
+"new.user" = "新用戶";
+"existing.user" = "現有用戶";
+"connect" = "連接";
+"invite.expired.title" = "邀請過期";
+"invite.expired.message" = "邀請在24小時後過期。請創建一個新的邀請。";
+"invite.pending.title" = "邀請待定";
+"invite.pending.message" = "對不起延遲。您的邀請正在處理中。";
+"invite.in.progress.title" = "邀請進行中";
+"invite.in.progress.message" = "%@ 正在註冊。";
+"invite.pmt.in.progress.title" = "正在處理付款";
+"invite.pmt.in.progress.message" = "您的付款正在處理中。";
+
+//DESKTOP
+"message" = "消息";
+"logout" = "登出";
+"logout.text" = "您確定要登出嗎？您的帳戶信息和設置將被刪除。";
+"enter.code.placeholder" = "輸入代碼...";
+"keychain.restore" = "從Keychain恢復";
+"code.not.supported" = "代碼不支持";
+"enter.restore.pin" = "輸入您的PIN";
+"share.invite.code" = "分享邀請碼";
+"open.conversation" = "開啟對話以開始使用Sphinx";
+"drag.attachment" = "將圖像或視頻拖動到對話中發送。目前不允許在群組中發送和接收付款";
+"audio.too.short" = "音頻太短";
+
+//PODCAST
+"episodes" = "集";
+"price.per.minute" = "每分鐘價格：%d sats";
+"contributed.sats" = "貢獻了：%d sats";
+"earned.sats" = "賺得：%d sats";
+"sats.per.minute" = "播客：每分鐘sats";
+"suggested.out.range" = "建議的金額（%d sats）超出了最大值";

@@ -1,0 +1,28 @@
+/* Class = "NSTextFieldCell"; title = "ユーザー名"; ObjectID = "3Qv-80-S8i"; */
+"3Qv-80-S8i.title" = "ユーザー名";
+
+/* Class = "NSTextFieldCell"; title = "ミーティングサーバー"; ObjectID = "Tci-hQ-YkV"; */
+"Tci-hQ-YkV.title" = "ミーティングサーバー";
+
+/* Class = "NSTextFieldCell"; title = "アドレス"; ObjectID = "gvM-01-89w"; */
+"gvM-01-89w.title" = "アドレス";
+
+"lhX-D8-z6l.title" = "ルートヒント";
+
+/* Class = "NSTextFieldCell"; title = "プロフィール写真を連絡先と共有\n"; ObjectID = "pmw-w3-a0T"; */
+"pmw-w3-a0T.title" = "プロフィール写真を連絡先と共有\n";
+
+"RnC-xs-5Nh.title" = "より多くのデバイスと同期";
+
+"hwD-l5-buT.title" = "キーをバックアップ";
+
+/* Class = "NSButtonCell"; title = "変更を保存"; ObjectID = "qhk-bW-FZv"; */
+"qhk-bW-FZv.title" = "変更を保存";
+
+/* Class = "NSButtonCell"; title = "新しいデバイスに切り替える？キーをエクスポート"; ObjectID = "tTV-fP-FrT"; */
+"tTV-fP-FrT.title" = "新しいデバイスに切り替える？キーをエクスポート";
+
+/* Class = "NSTextFieldCell"; title = "サーバーURL"; ObjectID = "wRd-MN-U8t"; */
+"wRd-MN-U8t.title" = "サーバーURL";
+
+"0cE-Ar-9CG.title" = "PINを変更";
