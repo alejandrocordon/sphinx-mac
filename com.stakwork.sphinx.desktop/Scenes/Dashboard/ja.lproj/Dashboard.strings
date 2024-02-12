@@ -1,0 +1,10 @@
+/* Class = "NSTextFieldCell"; title = "Price:"; ObjectID = "RPU-hH-hHs"; */
+"RPU-hH-hHs.title" = "価格:";
+
+/* Class = "NSButtonCell"; title = "Open a conversation to start messaging"; ObjectID = "b26-JN-1eG"; */
+"b26-JN-1eG.title" = "メッセージングを開始するために会話を開始する";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Search"; ObjectID = "rha-Yr-Htc"; */
+"rha-Yr-Htc.placeholderString" = "検索";
+
+"6dY-Cn-C9x.title" = "アップグレード";

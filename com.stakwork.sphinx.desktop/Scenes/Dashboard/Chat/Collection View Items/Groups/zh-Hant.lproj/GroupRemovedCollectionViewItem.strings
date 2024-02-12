@@ -1,0 +1,5 @@
+/* Class = "NSButtonCell"; title = "Delete group"; ObjectID = "582-s3-9ps"; */
+"582-s3-9ps.title" = "刪除群組";
+
+/* Class = "NSTextFieldCell"; title = "The admin has removed \nyou from this group"; ObjectID = "CY7-hC-4vb"; */
+"CY7-hC-4vb.title" = "管理員已將您從此群組中移除";

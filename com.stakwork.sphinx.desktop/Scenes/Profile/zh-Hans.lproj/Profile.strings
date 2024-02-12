@@ -1,0 +1,28 @@
+/* Class = "NSTextFieldCell"; title = "用户名"; ObjectID = "3Qv-80-S8i"; */
+"3Qv-80-S8i.title" = "用户名";
+
+/* Class = "NSTextFieldCell"; title = "会议服务器"; ObjectID = "Tci-hQ-YkV"; */
+"Tci-hQ-YkV.title" = "会议服务器";
+
+/* Class = "NSTextFieldCell"; title = "地址"; ObjectID = "gvM-01-89w"; */
+"gvM-01-89w.title" = "地址";
+
+"lhX-D8-z6l.title" = "路由提示";
+
+/* Class = "NSTextFieldCell"; title = "分享我的个人资料照片\n给联系人"; ObjectID = "pmw-w3-a0T"; */
+"pmw-w3-a0T.title" = "分享我的个人资料照片\n给联系人";
+
+"RnC-xs-5Nh.title" = "同步更多设备";
+
+"hwD-l5-buT.title" = "备份您的密钥";
+
+/* Class = "NSButtonCell"; title = "保存更改"; ObjectID = "qhk-bW-FZv"; */
+"qhk-bW-FZv.title" = "保存更改";
+
+/* Class = "NSButtonCell"; title = "想切换到新设备？导出密钥"; ObjectID = "tTV-fP-FrT"; */
+"tTV-fP-FrT.title" = "想切换到新设备？导出密钥";
+
+/* Class = "NSTextFieldCell"; title = "服务器 URL"; ObjectID = "wRd-MN-U8t"; */
+"wRd-MN-U8t.title" = "服务器 URL";
+
+"0cE-Ar-9CG.title" = "更改 PIN";

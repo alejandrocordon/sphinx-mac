@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "投注时间：(小时)"; ObjectID = "5Mx-Tg-RiK"; */
+"5Mx-Tg-RiK.title" = "投注时间：(小时)";
+
+/* Class = "NSTextFieldCell"; title = "每条消息的价格:"; ObjectID = "IDt-GP-9ir"; */
+"IDt-GP-9ir.title" = "每条消息的价格:";
+
+/* Class = "NSButtonCell"; title = "加入部落"; ObjectID = "PnB-qY-PbV"; */
+"PnB-qY-PbV.title" = "加入部落";
+
+/* Class = "NSTextFieldCell"; title = "投注金额:"; ObjectID = "RlC-nx-gKp"; */
+"RlC-nx-gKp.title" = "投注金额:";
+
+/* Class = "NSTextFieldCell"; title = "加入价格:"; ObjectID = "fC4-f3-yQO"; */
+"fC4-f3-yQO.title" = "加入价格:";
+
+/* Class = "NSTextFieldCell"; title = "加载部落信息..."; ObjectID = "ubU-9I-jji"; */
+"ubU-9I-jji.title" = "加载部落信息...";
+
+"uGH-BU-eSo.title" = "保存";
+
+"vz1-9I-udo.title" = "加载信息...";
